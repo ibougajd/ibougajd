@@ -1,5 +1,4 @@
 ## Hi there 👋
-## hello
 ## 42 Cursus
 [![ibougajd's 42 stats](https://badge.mediaplus.ma/darkblue/ibougajd)](https://github.com/oakoudad/badge42)
 
