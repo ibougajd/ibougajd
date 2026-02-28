@@ -4,7 +4,7 @@
 [![ibougajd's 42 stats](https://badge.mediaplus.ma/binary/ibougajd)](https://github.com/oakoudad/badge42)
 ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGludWVreXExcnQ0MnJ0M2o4c3F5ZnVrZnozdXFrOGUxczcxcmYyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)
 -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,bash,elasticsearch,githubactions,grafana,kubernetes,nginx,prometheus,redis,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,bash,kubernetes,githubactions,nginx,elasticsearch,grafana,prometheus,redis,)](https://skillicons.dev)
 <!--
 **ibougajd/ibougajd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
