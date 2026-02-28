@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## hello
 ## 42 Cursus
-[![ibougajd's 42 stats](https://42-stats-card.vercel.app/api?login=ibougajd&theme=dark)](https://github.com/m-m-m-m/42-stats-card)
+[![ibougajd's 42 stats](https://badge.mediaplus.ma/darkblue/ibougajd)](https://github.com/oakoudad/badge42)
 
 <!--
 **ibougajd/ibougajd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
