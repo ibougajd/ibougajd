@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 42 Cursus
-[![ibougajd's 42 stats](https://badge.mediaplus.ma/darkblue/ibougajd)](https://github.com/oakoudad/badge42)
+[![ibougajd's 42 stats](https://badge.mediaplus.ma/binary/ibougajd)](https://github.com/oakoudad/badge42)
 
 <!--
 **ibougajd/ibougajd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
