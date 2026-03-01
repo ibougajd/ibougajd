@@ -1,7 +1,7 @@
 <!-- Header / Hero -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=180&section=header&text=ibougajd&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=180&section=header&text=Ilyass Bougajdi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 
 <h3>Passionate Developer • DevOps Enthusiast • Student @ 1337</h3>
 
@@ -23,7 +23,7 @@
 
 ## About Me
 
-Hi, I'm **ibougajd** — a **student at 1337** and a **passionate developer** with a growing love for **DevOps**.
+Hi, I'm **Ilyass Bougajdi** — a **student at 1337** and a **passionate developer** with a growing love for **DevOps**.
 
 - I enjoy turning ideas into **reliable software**
 - I like building **automation**, **CI/CD pipelines**, and **developer-friendly workflows**
