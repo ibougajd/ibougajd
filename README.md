@@ -26,10 +26,10 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="14%">
 
-
+<br><br>
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400">
 
-<br><br>
+
 <h3 
 
 - 🔧 I’m currently building containerized applications with Docker
@@ -159,7 +159,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="45" height="45"/>
 </div>
 <div align="right">
-_Last updated: **Sunday, March 1st, 2026, 06:50:45 AM**_
+_Last updated: **Sunday, March 15, 2026, 20:14:45 AM**_
   <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 
 
