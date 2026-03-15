@@ -6,7 +6,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Ilyass Bougajdi</h1>
-<h3 align="center">DevOps Student at 1337 | Seeking Internship</h3>
+<h3 align="center">Passionate Developer • DevOps Enthusiast • Student @ 1337</h3>
 <p align="center">A passionate DevOps Engineer from Morocco, currently mastering the art of automation, containerization, and cloud infrastructure. I'm fascinated by how modern DevOps practices revolutionize software delivery and system reliability. I love exploring new technologies and leveraging them to build scalable and efficient infrastructure 🛠️</p>
 
 <p align="center"> 
@@ -17,11 +17,11 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="45%">
 <p align="center">
-<a href="https://www.linkedin.com/in/walidbosso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"width="100" height="40"/></a>
-<a href="http://walidbosso.byethost12.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" width="170" height="40"/></a>
-<a href="mailto:walidbosso24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"width="100" height="40" /></a>
-<a href="https://t.me/walidbosso" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white"width="150" height="40" /></a><br>
-<a href="http://walidbosso.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" width="160" height="30"/></a>
+<a href="https://www.linkedin.com/in/ilyass-bougajdi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"width="100" height="40"/></a>
+<a href="https://ilyass_bougajdi.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" width="170" height="40"/></a>
+<a href="mailto:ilyassbougajdi7777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"width="100" height="40" /></a>
+<a href="https://discord.com/users/1193208118222520351" target="_blank"><img src="https://img.shields.io/badge/discord-gray?logo=discord"width="150" height="40" /></a><br>
+<a href="cv/ilyass.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" width="160" height="30"/></a>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="14%">
@@ -32,86 +32,71 @@
 <br><br>
 <h3 
 
-- 🔭 I’m currently loking for internship
+- 🔧 I’m currently building containerized applications with Docker
 
-- 🌱 I’m currently leveling up on **Devops**
+- 🚀 Exploring cloud infrastructure and DevOps best practices
 
-- 👨‍💻 chaeck out my web portfolio
+- 🌐 Interested in cloud-native architecture and microservices
 
-- 💬 Ask me about **C, C++, docker and kubernetes**
+- 🛠️ Passionate about infrastructure as code and system automation
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-- Some Markdown text with <span style="color:blue">**some blue text**</span>.
+- 🌱 Learning more about monitoring and observability tools
+
+- 🌱 learning advanced Kubernetes & CI/CD pipelines
 
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 👯 I’m looking to collaborate on open-source DevOps tools
 
-- ⚡ Fun fact **I wanna kill myself**
+- 💬 Ask me about C, C++, Docker, Kubernetes, and Linux
 <br><br><br><br>
 <br clear="right"/>
 
 
-## what I'm into
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
 
-- **Software Engineering:** Problem solving, algorithms, tooling, systems thinking  
-- **DevOps:** CI/CD, containers, automation, monitoring basics  
-- **Team Workflows:** Git hygiene, code reviews, docs that don't lie
-- **Team Workflows:** Git hygiene, code reviews, docs that don't lie
-- **Team Workflows:** Git hygiene, code reviews, docs that don't lie
-- **Team Workflows:** Git hygiene, code reviews, docs that don't lie
-- **Team Workflows:** Git hygiene, code reviews, docs that don't lie
-- **Team Workflows:** Git hygiene, code reviews, docs that don't lie
-- **Team Workflows:** Git hygiene, code reviews, docs that don't lie
-- **Team Workflows:** Git hygiene, code reviews, docs that don't lie
-<!-- 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
 
 <img align="right" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="90">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
 
-## Languages and Tools
+## 🛠 Core Competencies & Technologies
 
-
-- Backend
+**Programming & Scripting**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,py,js" alt="Programming Languages" />
   </a>
 </p>
 
-- Frontend
+**DevOps, Cloud & IaC**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,azure,aws,terraform" alt="DevOps and Cloud" />
   </a>
 </p>
 
-- Database
+**Observability & Monitoring**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana" alt="Monitoring Tools" />
   </a>
 </p>
 
-- Cloud Servers
+**Databases & Caching**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=postgres,mariadb,mysql,mongodb,redis" alt="Databases" />
   </a>
 </p>
 
-- Tools
+**System Administration & CI/CD**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,githubactions,vscode" alt="Systems and CI/CD" />
   </a>
 </p>
 
 <br/>
-
 
 
 
@@ -129,14 +114,22 @@
 
 <br><br>
 
-## 📊 GitHub Statistics
+## GitHub Stats
 
- 
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ibougajd&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibougajd&layout=compact&theme=transparent&hide_border=true" alt="top langs" />
+
+</div>
+<div align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jagoda11/Jagoda11/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jagoda11/Jagoda11/output/github-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/Jagoda11/Jagoda11/output/github-snake.svg">
 </picture>
+
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 
