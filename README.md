@@ -18,7 +18,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="45%">
 <p align="center">
 <a href="https://www.linkedin.com/in/ilyass-bougajdi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"width="100" height="40"/></a>
-<a href="https://ilyass_bougajdi.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" width="170" height="40"/></a>
+<a href="https://ibougajd.github.io/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" width="170" height="40"/></a>
 <a href="mailto:ilyassbougajdi7777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"width="100" height="40" /></a>
 <a href="https://discord.com/users/1193208118222520351" target="_blank"><img src="https://img.shields.io/badge/discord-gray?logo=discord"width="150" height="40" /></a><br>
 <a href="cv/ilyass.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" width="160" height="30"/></a>
