@@ -44,24 +44,19 @@
 
 
 
-- 🔧 I’m currently building containerized applications with Docker
+- 🚀 Currently building: Scaling PulseWatch, my Kubernetes-based website health monitor.
 
-- 🚀 Exploring cloud infrastructure and DevOps best practices
+- 🔍 Deep Diving: Mastering the ELK Stack and Grafana to understand why systems fail before they actually do.
 
-- 🌐 Interested in cloud-native architecture and microservices
+- 🛠️ Infrastructure as Code: Moving from manual setups to fully automated Docker and K8s environments.
 
-- 🛠️ Passionate about infrastructure as code and system automation
+- 🌱 Learning: Currently tackling advanced CI/CD patterns and Terraform to treat infrastructure like software.
 
-- 🌱 Learning more about monitoring and observability tools
+- 🎓 1337 Journey: Finished the Common Core; now focusing 100% on DevOps and system reliability.
 
-- 🌱 learning advanced Kubernetes & CI/CD pipelines
+- 🤝 Looking for: A DevOps Internship where I can help a team automate, monitor, and scale.
 
-
-- 👯 I’m looking to collaborate on open-source DevOps tools
-
-- 💬 Ask me about C, C++, Docker, Kubernetes, and Linux
-<br><br><br><br>
-<br clear="right"/>
+- 💬 Ask me about: Why I love C/C++ for the logic, but Kubernetes for the scale.
 
 
 
