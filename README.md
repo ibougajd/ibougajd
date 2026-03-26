@@ -6,8 +6,21 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Ilyass Bougajdi</h1>
-<h3 align="center">Passionate Developer • DevOps Enthusiast • Student @ 1337</h3>
-<p align="center">A passionate DevOps Engineer from Morocco, currently mastering the art of automation, containerization, and cloud infrastructure. I'm fascinated by how modern DevOps practices revolutionize software delivery and system reliability. I love exploring new technologies and leveraging them to build scalable and efficient infrastructure 🛠️</p>
+<h3 align="center">Aspiring DevOps Engineer | Student @ 1337 (UM6P)</h3>
+
+<p align="center">
+  I'm a student at <b>1337 Coding School</b> in Morocco, where I've spent the last few years learning how to build and break systems. 
+  What started as a curiosity for code has turned into a deep focus on <b>DevOps, Infrastructure, and Observability</b>.
+</p>
+
+<p align="center">
+  Right now, I'm at the stage where I've built my own clusters, automated my own pipelines, and monitored my own microservices—and I'm loving every bit of it. 
+  <b>I’m currently looking for a DevOps internship</b> where I can take these skills out of the lab and into a professional team to solve real-world problems. 🛠️
+</p>
+
+<p align="center">
+  <i>"I don't just want to deploy code; I want to understand exactly how it lives, scales, and stays healthy in production."</i>
+</p>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=ibougajd&label=Profile%20views&color=0e75b6&style=flat" alt="ilyass bougajdi" height="" width="200"/>
