@@ -112,9 +112,7 @@
 
 
 
-## 42 Project - Badges
 
-![libft-bonus](./badges/libftm.png) ![get_next_line-bonus](./badges/get_next_linem.png) ![born2beroot-bonus](./badges/born2berootm.png) ![ft_printf-bonus](./badges/ft_printfm.png) ![minitalk-bonus](./badges/minitalkm.png)  ![so_long-bonus](./badges/so_longm.png) ![push_swap-bonus](./badges/push_swapm.png)![philosophers-bonus](./badges/philosophersm.png)![minishell-bonus](./badges/minishellm.png) ![netpratice-bonus](./badges/netpracticem.png) ![cub3d-bonus](./badges/cub3dm.png) ![cpp-bonus](./badges/cppm.png) ![ft_containers](./badges/ft_containersm.png)![inception-bonus](./badges/inceptionm.png) ![ft_irc-bonus](./badges/ft_ircm.png)![ft_transcendence-bonus](./badges/ft_transcendencem.png)
 
 
 
