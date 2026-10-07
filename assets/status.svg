@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" font-family="'Fira Code','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>Status</title>
+<rect x="0.5" y="0.5" width="399" height="299" fill="#05090b" stroke="#2f4a4d"/>
+<defs><pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M10 0H0V10" fill="none" stroke="#22393c" stroke-width="0.4"/></pattern></defs>
+<rect x="1" y="1" width="398" height="298" fill="url(#grid)" opacity="0.35"/>
+<path d="M2 14 V2 H14" fill="none" stroke="#aacfd1" stroke-width="1.4"/><path d="M398 14 V2 H386" fill="none" stroke="#aacfd1" stroke-width="1.4"/><path d="M2 286 V298 H14" fill="none" stroke="#aacfd1" stroke-width="1.4"/><path d="M398 286 V298 H386" fill="none" stroke="#aacfd1" stroke-width="1.4"/>
+<text x="12" y="16" font-size="8" fill="#5f8588" text-anchor="start" xml:space="preserve">PANEL</text>
+<text x="388" y="16" font-size="8" fill="#5f8588" text-anchor="end" xml:space="preserve">STATUS</text>
+<line x1="12" y1="20" x2="388" y2="20" stroke="#aacfd1" stroke-width="0.8"/>
+<text x="12" y="34" font-size="9" fill="#e6fbfc" text-anchor="start" xml:space="preserve">ilyass@1337</text><text x="78" y="34" font-size="9" fill="#5f8588" text-anchor="start" xml:space="preserve">~ $</text><text x="100" y="34" font-size="9" fill="#e6fbfc" text-anchor="start" xml:space="preserve">./status --verbose</text>
+<line x1="12" y1="40" x2="388" y2="40" stroke="#2f4a4d" stroke-width="0.6"/>
+<rect x="12" y="48" width="5" height="8" fill="#aacfd1" opacity="0.8"/>
+<text x="22" y="56" font-size="9.5" fill="#e6fbfc" text-anchor="start" xml:space="preserve" font-weight="bold">deep_dive</text>
+<line x1="82" y1="53" x2="360" y2="53" stroke="#2f4a4d" stroke-width="0.5" stroke-dasharray="1 2"/>
+<text x="388" y="56" font-size="8" fill="#8fe3a8" text-anchor="end" xml:space="preserve">[OK]</text>
+<text x="22" y="69" font-size="9" xml:space="preserve"><tspan fill="#aacfd1">Mastering</tspan><tspan fill="#aacfd1"> the</tspan><tspan fill="#aacfd1"> ELK</tspan><tspan fill="#aacfd1"> Stack</tspan><tspan fill="#aacfd1"> and</tspan><tspan fill="#aacfd1"> Grafana</tspan><tspan fill="#aacfd1"> to</tspan><tspan fill="#aacfd1"> understand</tspan><tspan fill="#aacfd1"> why</tspan></text>
+<text x="22" y="81" font-size="9" xml:space="preserve"><tspan fill="#aacfd1">systems</tspan><tspan fill="#aacfd1"> fail</tspan><tspan fill="#aacfd1"> before</tspan><tspan fill="#aacfd1"> they</tspan><tspan fill="#aacfd1"> actually</tspan><tspan fill="#aacfd1"> do.</tspan></text>
+<rect x="12" y="94" width="5" height="8" fill="#aacfd1" opacity="0.8"/>
+<text x="22" y="102" font-size="9.5" fill="#e6fbfc" text-anchor="start" xml:space="preserve" font-weight="bold">iac</text>
+<line x1="45" y1="99" x2="360" y2="99" stroke="#2f4a4d" stroke-width="0.5" stroke-dasharray="1 2"/>
+<text x="388" y="102" font-size="8" fill="#8fe3a8" text-anchor="end" xml:space="preserve">[OK]</text>
+<text x="22" y="115" font-size="9" xml:space="preserve"><tspan fill="#aacfd1">Moving</tspan><tspan fill="#aacfd1"> from</tspan><tspan fill="#aacfd1"> manual</tspan><tspan fill="#aacfd1"> setups</tspan><tspan fill="#aacfd1"> to</tspan><tspan fill="#aacfd1"> fully</tspan><tspan fill="#aacfd1"> automated</tspan><tspan fill="#aacfd1"> Docker</tspan><tspan fill="#aacfd1"> and</tspan><tspan fill="#aacfd1"> K8s</tspan></text>
+<text x="22" y="127" font-size="9" xml:space="preserve"><tspan fill="#aacfd1">environments.</tspan></text>
+<rect x="12" y="140" width="5" height="8" fill="#aacfd1" opacity="0.8"/>
+<text x="22" y="148" font-size="9.5" fill="#e6fbfc" text-anchor="start" xml:space="preserve" font-weight="bold">learning</text>
+<line x1="76" y1="145" x2="360" y2="145" stroke="#2f4a4d" stroke-width="0.5" stroke-dasharray="1 2"/>
+<text x="388" y="148" font-size="8" fill="#8fe3a8" text-anchor="end" xml:space="preserve">[OK]</text>
+<text x="22" y="161" font-size="9" xml:space="preserve"><tspan fill="#aacfd1">Currently</tspan><tspan fill="#aacfd1"> tackling</tspan><tspan fill="#aacfd1"> advanced</tspan><tspan fill="#aacfd1"> CI/CD</tspan><tspan fill="#aacfd1"> patterns</tspan><tspan fill="#aacfd1"> and</tspan><tspan fill="#aacfd1"> Terraform</tspan><tspan fill="#aacfd1"> to</tspan></text>
+<text x="22" y="173" font-size="9" xml:space="preserve"><tspan fill="#aacfd1">treat</tspan><tspan fill="#aacfd1"> infrastructure</tspan><tspan fill="#aacfd1"> like</tspan><tspan fill="#aacfd1"> software.</tspan></text>
+<rect x="12" y="186" width="5" height="8" fill="#aacfd1" opacity="0.8"/>
+<text x="22" y="194" font-size="9.5" fill="#e6fbfc" text-anchor="start" xml:space="preserve" font-weight="bold">1337_journey</text>
+<line x1="100" y1="191" x2="360" y2="191" stroke="#2f4a4d" stroke-width="0.5" stroke-dasharray="1 2"/>
+<text x="388" y="194" font-size="8" fill="#8fe3a8" text-anchor="end" xml:space="preserve">[OK]</text>
+<text x="22" y="207" font-size="9" xml:space="preserve"><tspan fill="#aacfd1">Finished</tspan><tspan fill="#aacfd1"> the</tspan><tspan fill="#aacfd1"> Common</tspan><tspan fill="#aacfd1"> Core;</tspan><tspan fill="#aacfd1"> now</tspan><tspan fill="#aacfd1"> focusing</tspan><tspan fill="#aacfd1"> 100%</tspan><tspan fill="#aacfd1"> on</tspan><tspan fill="#aacfd1"> DevOps</tspan><tspan fill="#aacfd1"> and</tspan></text>
+<text x="22" y="219" font-size="9" xml:space="preserve"><tspan fill="#aacfd1">system</tspan><tspan fill="#aacfd1"> reliability.</tspan></text>
+<rect x="12" y="232" width="5" height="8" fill="#aacfd1" opacity="0.8"/>
+<text x="22" y="240" font-size="9.5" fill="#e6fbfc" text-anchor="start" xml:space="preserve" font-weight="bold">ask_me_about</text>
+<line x1="100" y1="237" x2="360" y2="237" stroke="#2f4a4d" stroke-width="0.5" stroke-dasharray="1 2"/>
+<text x="388" y="240" font-size="8" fill="#8fe3a8" text-anchor="end" xml:space="preserve">[OK]</text>
+<text x="22" y="253" font-size="9" xml:space="preserve"><tspan fill="#aacfd1">Why</tspan><tspan fill="#aacfd1"> I</tspan><tspan fill="#aacfd1"> love</tspan><tspan fill="#aacfd1"> C/C++</tspan><tspan fill="#aacfd1"> for</tspan><tspan fill="#aacfd1"> the</tspan><tspan fill="#aacfd1"> logic,</tspan><tspan fill="#aacfd1"> but</tspan><tspan fill="#aacfd1"> Kubernetes</tspan><tspan fill="#aacfd1"> for</tspan><tspan fill="#aacfd1"> the</tspan></text>
+<text x="22" y="265" font-size="9" xml:space="preserve"><tspan fill="#aacfd1">scale.</tspan></text>
+<text x="12" y="288" font-size="9" fill="#e6fbfc" text-anchor="start" xml:space="preserve">ilyass@1337</text><text x="78" y="288" font-size="9" fill="#5f8588" text-anchor="start" xml:space="preserve">~ $</text>
+<rect x="102" y="280" width="6" height="10" fill="#aacfd1"><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>

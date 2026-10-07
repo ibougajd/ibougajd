@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="72" viewBox="0 0 64 72" font-family="'Fira Code','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>MongoDB</title>
+<defs><clipPath id="c"><path d="M1 1 H55 L63 9 V71 H9 L1 63 Z"/></clipPath><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#aacfd1" stop-opacity="0"/><stop offset="1" stop-color="#aacfd1" stop-opacity="0.25"/></linearGradient></defs>
+<path d="M1 1 H55 L63 9 V71 H9 L1 63 Z" fill="#05090b" stroke="#aacfd1" stroke-width="1.2"/>
+<g clip-path="url(#c)"><rect x="0" width="64" height="14" fill="url(#s)"><animate attributeName="y" values="-14;72;72" keyTimes="0;0.3;1" dur="4s" begin="0.14s" repeatCount="indefinite"/></rect></g>
+<g fill="#aacfd1" transform="translate(17.0 10) scale(1.25)"><path d="M17.193 9.555c-1.264-5.58-4.252-7.414-4.573-8.115-.28-.394-.53-.954-.735-1.44-.036.495-.055.685-.523 1.184-.723.566-4.438 3.682-4.74 10.02-.282 5.912 4.27 9.435 4.888 9.884l.07.05A73.49 73.49 0 0111.91 24h.481c.114-1.032.284-2.056.51-3.07.417-.296.604-.463.85-.693a11.342 11.342 0 003.639-8.464c.01-.814-.103-1.662-.197-2.218zm-5.336 8.195s0-8.291.275-8.29c.213 0 .49 10.695.49 10.695-.381-.045-.765-1.76-.765-2.405z"/></g>
+<line x1="8" y1="50" x2="56" y2="50" stroke="#2f4a4d" stroke-width="0.8"/>
+<text x="32.0" y="62" font-size="8.5" fill="#e6fbfc" text-anchor="middle" xml:space="preserve">MongoDB</text>
+<rect x="52" y="66" width="5" height="2" fill="#5f8588"/>
+</svg>

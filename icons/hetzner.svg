@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="72" viewBox="0 0 64 72" font-family="'Fira Code','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>Hetzner</title>
+<defs><clipPath id="c"><path d="M1 1 H55 L63 9 V71 H9 L1 63 Z"/></clipPath><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#aacfd1" stop-opacity="0"/><stop offset="1" stop-color="#aacfd1" stop-opacity="0.25"/></linearGradient></defs>
+<path d="M1 1 H55 L63 9 V71 H9 L1 63 Z" fill="#05090b" stroke="#aacfd1" stroke-width="1.2"/>
+<g clip-path="url(#c)"><rect x="0" width="64" height="14" fill="url(#s)"><animate attributeName="y" values="-14;72;72" keyTimes="0;0.3;1" dur="4s" begin="0.81s" repeatCount="indefinite"/></rect></g>
+<g fill="#aacfd1" transform="translate(17.0 10) scale(1.25)"><path d="M0 0v24h24V0H0zm4.602 4.025h2.244c.509 0 .716.215.716.717v5.64h8.883v-5.64c0-.509.215-.717.717-.717h2.229c.5 0 .71.23.724.717v14.516c0 .509-.215.717-.717.717h-2.23c-.51 0-.717-.215-.717-.717v-5.735H7.562v5.735c0 .516-.215.717-.716.717H4.602c-.51 0-.717-.208-.717-.717V4.742c0-.509.207-.717.717-.717z"/></g>
+<line x1="8" y1="50" x2="56" y2="50" stroke="#2f4a4d" stroke-width="0.8"/>
+<text x="32.0" y="62" font-size="8.5" fill="#e6fbfc" text-anchor="middle" xml:space="preserve">Hetzner</text>
+<rect x="52" y="66" width="5" height="2" fill="#5f8588"/>
+</svg>

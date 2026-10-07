@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="72" viewBox="0 0 64 72" font-family="'Fira Code','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>Ubuntu</title>
+<defs><clipPath id="c"><path d="M1 1 H55 L63 9 V71 H9 L1 63 Z"/></clipPath><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#aacfd1" stop-opacity="0"/><stop offset="1" stop-color="#aacfd1" stop-opacity="0.25"/></linearGradient></defs>
+<path d="M1 1 H55 L63 9 V71 H9 L1 63 Z" fill="#05090b" stroke="#aacfd1" stroke-width="1.2"/>
+<g clip-path="url(#c)"><rect x="0" width="64" height="14" fill="url(#s)"><animate attributeName="y" values="-14;72;72" keyTimes="0;0.3;1" dur="4s" begin="1.25s" repeatCount="indefinite"/></rect></g>
+<g fill="#aacfd1" transform="translate(17.0 10) scale(1.25)"><path d="M17.61.455a3.41 3.41 0 0 0-3.41 3.41 3.41 3.41 0 0 0 3.41 3.41 3.41 3.41 0 0 0 3.41-3.41 3.41 3.41 0 0 0-3.41-3.41zM12.92.8C8.923.777 5.137 2.941 3.148 6.451a4.5 4.5 0 0 1 .26-.007 4.92 4.92 0 0 1 2.585.737A8.316 8.316 0 0 1 12.688 3.6 4.944 4.944 0 0 1 13.723.834 11.008 11.008 0 0 0 12.92.8zm9.226 4.994a4.915 4.915 0 0 1-1.918 2.246 8.36 8.36 0 0 1-.273 8.303 4.89 4.89 0 0 1 1.632 2.54 11.156 11.156 0 0 0 .559-13.089zM3.41 7.932A3.41 3.41 0 0 0 0 11.342a3.41 3.41 0 0 0 3.41 3.409 3.41 3.41 0 0 0 3.41-3.41 3.41 3.41 0 0 0-3.41-3.41zm2.027 7.866a4.908 4.908 0 0 1-2.915.358 11.1 11.1 0 0 0 7.991 6.698 11.234 11.234 0 0 0 2.422.249 4.879 4.879 0 0 1-.999-2.85 8.484 8.484 0 0 1-.836-.136 8.304 8.304 0 0 1-5.663-4.32zm11.405.928a3.41 3.41 0 0 0-3.41 3.41 3.41 3.41 0 0 0 3.41 3.41 3.41 3.41 0 0 0 3.41-3.41 3.41 3.41 0 0 0-3.41-3.41z"/></g>
+<line x1="8" y1="50" x2="56" y2="50" stroke="#2f4a4d" stroke-width="0.8"/>
+<text x="32.0" y="62" font-size="8.5" fill="#e6fbfc" text-anchor="middle" xml:space="preserve">Ubuntu</text>
+<rect x="52" y="66" width="5" height="2" fill="#5f8588"/>
+</svg>

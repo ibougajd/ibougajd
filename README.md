@@ -1,170 +1,99 @@
 
-<img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img align="center" src="assets/banner.svg" alt="ilyass@1337 live terminal" />
 
-
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<h1 align="center">Hi 👋, I'm Ilyass Bougajdi</h1>
-<h3 align="center">Aspiring DevOps Engineer | Student @ 1337 (UM6P)</h3>
+<img src="assets/intro.svg" width="100%" alt="Hi 👋, I'm Ilyass Bougajdi — Aspiring DevOps Engineer | Student @ 1337 (UM6P). I'm a student at 1337 Coding School in Morocco, focused on DevOps, Infrastructure, and Observability." />
 
 <p align="center">
-  I'm a student at <b>1337 Coding School</b> in Morocco, where I've spent the last few years learning how to build and break systems. 
-  What started as a curiosity for code has turned into a deep focus on <b>DevOps, Infrastructure, and Observability</b>.
+  <img src="https://komarev.com/ghpvc/?username=ibougajd&label=PROFILE%20VIEWS&color=2f6f73&style=flat-square" alt="profile views" height="28"/>
 </p>
 
 <p align="center">
-  Right now, I'm at the stage where I've built my own clusters, automated my own pipelines, and monitored my own microservices—and I'm loving every bit of it. 
-  <b>I’m currently looking for a DevOps internship</b> where I can take these skills out of the lab and into a professional team to solve real-world problems. 🛠️
+  <img src="assets/divider.svg" width="60%" alt="" />
 </p>
 
 <p align="center">
-  <i>"I don't just want to deploy code; I want to understand exactly how it lives, scales, and stays healthy in production."</i>
+  <a href="https://www.linkedin.com/in/ilyass-bougajdi" target="_blank"><img src="assets/btn-linkedin.svg" width="170" height="40" alt="LinkedIn" /></a>
+  <a href="https://ilyassbougajdi.com" target="_blank"><img src="assets/btn-portfolio.svg" width="170" height="40" alt="My Portfolio" /></a>
+  <a href="mailto:ilyassbougajdi7777@gmail.com" target="_blank"><img src="assets/btn-gmail.svg" width="170" height="40" alt="Gmail" /></a>
+  <a href="cv/ilyass.pdf"><img src="assets/btn-cv.svg" width="170" height="40" alt="Download my CV" /></a>
 </p>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=ibougajd&label=Profile%20views&color=0e75b6&style=flat" alt="ilyass bougajdi" height="" width="200"/>
-
-
+<p align="center">
+  <img src="assets/divider.svg" width="60%" alt="" />
+</p>
 
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="45%">
-<p align="center">
-<a href="https://www.linkedin.com/in/ilyass-bougajdi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"width="100" height="40"/></a>
-<a href="https://ilyassbougajdi.com" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" width="170" height="40"/></a>
-<a href="mailto:ilyassbougajdi7777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"width="100" height="40" /></a>
-<a href="cv/ilyass.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" width="180" height="70"/></a>
+  <img src="assets/status.svg" width="49%" alt="deep_dive: Mastering the ELK Stack and Grafana to understand why systems fail before they actually do. | iac: Moving from manual setups to fully automated Docker and K8s environments. | learning: Currently tackling advanced CI/CD patterns and Terraform to treat infrastructure like software. | 1337_journey: Finished the Common Core; now focusing 100% on DevOps and system reliability. | ask_me_about: Why I love C/C++ for the logic, but Kubernetes for the scale." />
+  <img src="assets/cluster.svg" width="49%" alt="Kubernetes cluster map" />
+</p>
 
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="14%">
+<img src="assets/section-skills.svg" width="100%" alt="Core Competencies & Technologies" />
 
-<br><br>
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400">
-
-
-
-- 🚀 Currently building: Scaling PulseWatch, my Kubernetes-based website health monitor.
-
-- 🔍 Deep Diving: Mastering the ELK Stack and Grafana to understand why systems fail before they actually do.
-
-- 🛠️ Infrastructure as Code: Moving from manual setups to fully automated Docker and K8s environments.
-
-- 🌱 Learning: Currently tackling advanced CI/CD patterns and Terraform to treat infrastructure like software.
-
-- 🎓 1337 Journey: Finished the Common Core; now focusing 100% on DevOps and system reliability.
-
-- 🤝 Looking for: A DevOps Internship where I can help a team automate, monitor, and scale.
-
-- 💬 Ask me about: Why I love C/C++ for the logic, but Kubernetes for the scale.
-
-
-
-
-
-<img align="right" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="90">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br>
-
-## 🛠 Core Competencies & Technologies
-
-**Programming & Scripting**
+<img src="assets/label-programming.svg" width="480" alt="Programming & Scripting" />
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,py,js" alt="Programming Languages" />
-  </a>
+  <img src="icons/c.svg" title="C" alt="C" width="64" />
+  <img src="icons/cpp.svg" title="C++" alt="C++" width="64" />
+  <img src="icons/bash.svg" title="Bash" alt="Bash" width="64" />
+  <img src="icons/python.svg" title="Python" alt="Python" width="64" />
+  <img src="icons/javascript.svg" title="JavaScript" alt="JavaScript" width="64" />
 </p>
 
-**DevOps, Cloud & IaC**
+<img src="assets/label-devops.svg" width="480" alt="Devops, Cloud & Iac" />
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,azure,aws,terraform" alt="DevOps and Cloud" />
-  </a>
+  <img src="icons/docker.svg" title="Docker" alt="Docker" width="64" />
+  <img src="icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="64" />
+  <img src="icons/nginx.svg" title="Nginx" alt="Nginx" width="64" />
+  <img src="icons/azure.svg" title="Azure" alt="Azure" width="64" />
+  <img src="icons/aws.svg" title="AWS" alt="AWS" width="64" />
+  <img src="icons/gcp.svg" title="Google Cloud" alt="Google Cloud" width="64" />
+  <img src="icons/cloudflare.svg" title="Cloudflare" alt="Cloudflare" width="64" />
+  <img src="icons/terraform.svg" title="Terraform" alt="Terraform" width="64" />
+  <img src="icons/hetzner.svg" title="Hetzner" alt="Hetzner" width="64" />
+  <img src="icons/coolify.svg" title="Coolify" alt="Coolify" width="64" />
 </p>
 
-**Observability & Monitoring**
+<img src="assets/label-observability.svg" width="480" alt="Observability & Monitoring" />
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana" alt="Monitoring Tools" />
-  </a>
+  <img src="icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="64" />
+  <img src="icons/grafana.svg" title="Grafana" alt="Grafana" width="64" />
+  <img src="icons/elasticsearch.svg" title="Elasticsearch" alt="Elasticsearch" width="64" />
+  <img src="icons/kibana.svg" title="Kibana" alt="Kibana" width="64" />
 </p>
 
-**Databases & Caching**
+<img src="assets/label-databases.svg" width="480" alt="Databases & Caching" />
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mariadb,mysql,mongodb,redis" alt="Databases" />
-  </a>
+  <img src="icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="64" />
+  <img src="icons/mariadb.svg" title="MariaDB" alt="MariaDB" width="64" />
+  <img src="icons/mysql.svg" title="MySQL" alt="MySQL" width="64" />
+  <img src="icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="64" />
+  <img src="icons/redis.svg" title="Redis" alt="Redis" width="64" />
 </p>
 
-**System Administration & CI/CD**
+<img src="assets/label-sysadmin.svg" width="480" alt="System Administration & Ci/Cd" />
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,githubactions,vscode" alt="Systems and CI/CD" />
-  </a>
+  <img src="icons/linux.svg" title="Linux" alt="Linux" width="64" />
+  <img src="icons/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="64" />
+  <img src="icons/git.svg" title="Git" alt="Git" width="64" />
+  <img src="icons/github.svg" title="GitHub" alt="GitHub" width="64" />
+  <img src="icons/githubactions.svg" title="GitHub Actions" alt="GitHub Actions" width="64" />
+  <img src="icons/vscode.svg" title="VS Code" alt="VS Code" width="64" />
 </p>
 
-<br/>
+<br>
 
+<img src="assets/section-stats.svg" width="100%" alt="GitHub Stats" />
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibougajd&show_icons=true&bg_color=05090b&title_color=e6fbfc&text_color=aacfd1&icon_color=aacfd1&border_color=2f4a4d&hide_border=false" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibougajd&layout=compact&bg_color=05090b&title_color=e6fbfc&text_color=aacfd1&icon_color=aacfd1&border_color=2f4a4d&hide_border=false" alt="top langs" />
+</p>
 
-<img align="right" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br/><br/>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=ibougajd&background=05090b&border=2f4a4d&stroke=2f4a4d&ring=aacfd1&fire=aacfd1&currStreakNum=e6fbfc&sideNums=e6fbfc&currStreakLabel=aacfd1&sideLabels=aacfd1&dates=5f8588" alt="streak" />
+</p>
 
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
-
-
-
-
-
-
-<br><br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ibougajd&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibougajd&layout=compact&theme=transparent&hide_border=true" alt="top langs" />
-
-</div>
-<div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jagoda11/Jagoda11/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jagoda11/Jagoda11/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Jagoda11/Jagoda11/output/github-snake.svg">
-</picture>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
-
-<div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="45" height="45"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="45" height="45"/>
-</div>
-<div align="right">
-_Last updated: **Sunday, March 15, 2026, 20:14:45 AM**_
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
-
-
-</div>
+<img src="assets/footer.svg" width="100%" alt="exit" />

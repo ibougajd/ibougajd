@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="46" viewBox="0 0 1000 46" font-family="'Fira Code','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>Github Stats</title>
+<rect x="0.5" y="0.5" width="999" height="45" fill="#05090b" stroke="#2f4a4d" stroke-width="1"/>
+<path d="M1.5 11.5 V1.5 H11.5" fill="none" stroke="#aacfd1" stroke-width="1.4"/><path d="M998.5 11.5 V1.5 H988.5" fill="none" stroke="#aacfd1" stroke-width="1.4"/><path d="M1.5 34.5 V44.5 H11.5" fill="none" stroke="#aacfd1" stroke-width="1.4"/><path d="M998.5 34.5 V44.5 H988.5" fill="none" stroke="#aacfd1" stroke-width="1.4"/>
+<text x="18" y="15" font-size="8" fill="#5f8588" text-anchor="start" xml:space="preserve">PANEL</text>
+<text x="982" y="15" font-size="8" fill="#5f8588" text-anchor="end" xml:space="preserve">TELEMETRY</text>
+<line x1="18" y1="19" x2="982" y2="19" stroke="#aacfd1" stroke-width="0.8"/>
+<rect x="18" y="26" width="8" height="12" fill="#aacfd1"><animate attributeName="opacity" values="1;0;1" dur="1.1s" calcMode="discrete" keyTimes="0;0.5;1" repeatCount="indefinite"/></rect>
+<text x="34" y="37" font-size="15" fill="#e6fbfc" text-anchor="start" xml:space="preserve" font-weight="bold" letter-spacing="2">GITHUB STATS</text>
+<text x="982" y="37" font-size="10" fill="#5f8588" text-anchor="end" xml:space="preserve">gh api /users/ibougajd</text>
+</svg>

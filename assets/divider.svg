@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="14" viewBox="0 0 600 14" font-family="'Fira Code','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>divider</title>
+<line x1="14" y1="7" x2="586" y2="7" stroke="#2f4a4d" stroke-width="1"/>
+<path d="M2 2 V12 M2 7 H10" stroke="#aacfd1" stroke-width="1.2" fill="none"/>
+<path d="M598 2 V12 M598 7 H590" stroke="#aacfd1" stroke-width="1.2" fill="none"/>
+<rect x="296.0" y="3" width="8" height="8" transform="rotate(45 300.0 7)" fill="#05090b" stroke="#aacfd1" stroke-width="1"/>
+<line x1="61.7" y1="5" x2="61.7" y2="9" stroke="#2f4a4d" stroke-width="1"/>
+<line x1="109.3" y1="5" x2="109.3" y2="9" stroke="#2f4a4d" stroke-width="1"/>
+<line x1="157.0" y1="5" x2="157.0" y2="9" stroke="#2f4a4d" stroke-width="1"/>
+<line x1="204.7" y1="5" x2="204.7" y2="9" stroke="#2f4a4d" stroke-width="1"/>
+<line x1="252.3" y1="5" x2="252.3" y2="9" stroke="#2f4a4d" stroke-width="1"/>
+<line x1="347.7" y1="5" x2="347.7" y2="9" stroke="#2f4a4d" stroke-width="1"/>
+<line x1="395.3" y1="5" x2="395.3" y2="9" stroke="#2f4a4d" stroke-width="1"/>
+<line x1="443.0" y1="5" x2="443.0" y2="9" stroke="#2f4a4d" stroke-width="1"/>
+<line x1="490.7" y1="5" x2="490.7" y2="9" stroke="#2f4a4d" stroke-width="1"/>
+<line x1="538.3" y1="5" x2="538.3" y2="9" stroke="#2f4a4d" stroke-width="1"/>
+<defs><linearGradient id="sweep"><stop offset="0" stop-color="#aacfd1" stop-opacity="0"/><stop offset="0.5" stop-color="#e6fbfc"/><stop offset="1" stop-color="#aacfd1" stop-opacity="0"/></linearGradient></defs>
+<rect y="6" width="70" height="2" fill="url(#sweep)"><animate attributeName="x" values="-70;600;600" keyTimes="0;0.6;1" dur="5s" repeatCount="indefinite"/></rect>
+</svg>
